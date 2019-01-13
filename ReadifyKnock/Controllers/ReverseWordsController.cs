@@ -9,9 +9,9 @@ namespace ReadifyKnock.Controllers
 {
     public class ReverseWordsController : ApiController
     {
-        public HttpResponseMessage Get(String word)
+        public HttpResponseMessage Get(String sentence)
         {
-            return getReverseWord(word);
+            return getReverseWord(sentence);
         }
 
         private HttpResponseMessage getReverseWord(string word)
