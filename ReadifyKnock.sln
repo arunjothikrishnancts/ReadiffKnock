@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyKnock", "ReadifyKnock\ReadifyKnock.csproj", "{F425EE7D-AE7D-4D4B-BC0E-3053B9684649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyKnock.Tests", "ReadifyKnock.Tests\ReadifyKnock.Tests.csproj", "{604CA446-C4A1-4CD2-ADB6-339C56C7ABAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F425EE7D-AE7D-4D4B-BC0E-3053B9684649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F425EE7D-AE7D-4D4B-BC0E-3053B9684649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F425EE7D-AE7D-4D4B-BC0E-3053B9684649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F425EE7D-AE7D-4D4B-BC0E-3053B9684649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604CA446-C4A1-4CD2-ADB6-339C56C7ABAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604CA446-C4A1-4CD2-ADB6-339C56C7ABAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604CA446-C4A1-4CD2-ADB6-339C56C7ABAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604CA446-C4A1-4CD2-ADB6-339C56C7ABAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15EC5126-0554-45E3-9E17-898D4B94D669}
+	EndGlobalSection
+EndGlobal
